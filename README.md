@@ -1,3 +1,5 @@
+**Intoducinf Myself:**
+ 
  👋 Hi, I am Kalyani Badwaik, an alytical, curious and  results-driven professional with 3 years of experience in recruitment, now pivoting towards a career in data analysis following a career break.
 I have strong skills in data collection, cleansing (transformation), and analysis using tools such as SQL, Excel, and visualization platforms. I am enthusiastic about leveraging data to solve business challenges and drive decision-making.
 
