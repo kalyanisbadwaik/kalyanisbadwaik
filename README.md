@@ -7,7 +7,9 @@
 - **Key Skills**:
 
 Data Analysis: Proficient in Google Sheets, Advanced Excel , SQL
-Big Query SQL: Experienced in data querying, report generation, and ad-hoc analyses.
+
+Big Query SQL: Experienced in data querying, report generation, and ad-hoc analyses
+
 I'm eager to bring my analytical prowess to new challenges and contribute to meaningful projects.
 
 **Connect With Me**
