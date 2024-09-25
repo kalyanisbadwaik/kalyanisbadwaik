@@ -5,7 +5,7 @@
 - 💞️I’m looking to collaborate on projects involving data cleaning, exploratory data analysis (EDA), building interactive dashboards, and developing predictive models. I’m also eager to work on real-world datasets to improve business processes or develop insights.
 
 **Connect With Me**
-Let's connect on  https://www.linkedin.com/in/kalyani-badwaik-25a99521/
+Let's connect on LinkedIn
 Feel free to reach out at kalyanib10@gmail.com
 <!---
 kalyanisbadwaik/kalyanisbadwaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
